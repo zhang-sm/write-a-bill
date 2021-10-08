@@ -284,9 +284,9 @@ export default class Calculator extends Vue {
   }
 
   .panel {
-    padding: 8px 12px;
-    font-size: 35px;
-    line-height: 30px;
+    padding: 6px 12px;
+    font-size: 30px;
+    line-height: 24px;
     color: #ff9600;
     font-family: Consolas, monospace;
     text-align: right;
