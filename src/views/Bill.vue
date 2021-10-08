@@ -2,7 +2,7 @@
     <Layout>
         <header class="header">
             <div class="logo">
-                <img :src="logo" alt="咸鱼记账"/>
+                <img :src="logo" alt="记一笔账"/>
             </div>
             <div class="info">
                 <div class="calendar">
