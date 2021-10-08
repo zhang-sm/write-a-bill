@@ -1,4 +1,4 @@
-# 咸鱼记账
+# 记一笔账
 
 ## 简介
 [记一笔账](https://zhang-sm.github.io/bill-web/)是一个基于vue.js和echarts.js的单页面应用, 界面样式主要参考了"鲨鱼记账"这个应用。
